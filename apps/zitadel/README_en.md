@@ -27,4 +27,5 @@ ZITADEL is an open-source Identity Management Infrastructure, providing secure a
 - [Contribution Guide](./CONTRIBUTING.md)
 
 ## Notes
-- Accessing via port will cause the console to not display. Please modify it to use domain access.
+- Accessing via port will result in the console not displaying properly, please modify to access via domain. 
+- HTTPS must be configured with reverse proxy.
